@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Gohugo"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Gohugo Türkiye"
+description = "Gohugo Türkiye paylaşım sitesi."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
@@ -19,7 +19,7 @@ schemaType = "Organization"
 schemaLogo = "logo-doks.png"
 schemaTwitter = "https://twitter.com/henkverlinde"
 schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/h-enk"
+schemaGitHub = "https://github.com/gohugotr/gohugotr"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -40,7 +40,7 @@ footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/gohugotr/public/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/gohugotr/gohugotr\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
 docsRepo = "https://github.com/gohugotr/public"
