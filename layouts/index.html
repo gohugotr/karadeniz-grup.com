@@ -1,9 +1,9 @@
 {{ define "main" }}
 <section class="section container-fluid mt-n3 pb-3">
-  <div class="row justify-content-center">
-    <div class="center w-100 w-50-ns"><img src="{{site.BaseURL | relURL }}/assets/images/hugo-logo-wide.svg" alt="Hugo Logo"></div>
+  <div class="row justify-content-center">   
+    <div class="center w-50 w-50-ns "><img src="{{site.BaseURL | relURL }}/images/hugo-logo-wide.svg" alt="Hugo Logo"></div>
     <div class="col-lg-12 text-center">
-      <h1 class="mt-0">{{ .Title }}</h1>
+      <h1 class="mt-2">{{ .Title }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
