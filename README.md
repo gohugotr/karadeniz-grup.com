@@ -5,17 +5,17 @@
 </p>
 
 <h1 align="center">
-  Doks
+  Gohugotr
 </h1>
 
 <h3 align="center">
-  Modern documentation theme
+  Gohugo Türkiye
 </h3>
 
 <p align="center">
-  Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
+  Gohugo Türkiye; Hugo ile modern, güvenli, hızlı statik web siteleri hazırlamanız için size klavuzluk etme amacını taşır.
 </p>
-
+<!-- 
 <p align="center">
   <a href="https://github.com/h-enk/doks/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
@@ -37,7 +37,7 @@
 
 - [doks.netlify.app](https://doks.netlify.app/)
 
-## Why Doks?
+# ## Why Doks?
 
 Nine reasons why you should use Doks:
 
@@ -119,7 +119,8 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 - [Doks Discussions](https://github.com/h-enk/doks/discussions)
 
 ## Blog
-<!--START_SECTION:feed-->
+<!--START_SECTION:feed--
 * [Doks v0.2](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;doks-v0.2&#x2F;)
 * [Say hello to Doks 👋](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;say-hello-to-doks&#x2F;)
-<!--END_SECTION:feed-->
+<!--END_SECTION:feed--
+ -->
