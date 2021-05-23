@@ -6,7 +6,7 @@
     {{ with .Inner}}
       <div class="w-100"> {{ . | markdownify}}</div>
     {{ else }}
-      {{ errorf "No valid text variable or Inner content given"}}
+      {{ errorf "Geçerli bir metin değişkeni veya İç içerik belirtilmedi"}}
     {{ end }}
   {{ end}}
 </div>
