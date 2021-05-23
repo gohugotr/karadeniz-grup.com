@@ -1,14 +1,14 @@
 ---
-title: "FAQ"
-description: "Answers to frequently asked questions."
-lead: "Answers to frequently asked questions."
+title: "SSS"
+description: "Sık sorulan soruların cevapları."
+lead: "Sık sorulan soruların cevapları."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "help"
+    parent: "yardim"
 weight: 630
 toc: true
 ---

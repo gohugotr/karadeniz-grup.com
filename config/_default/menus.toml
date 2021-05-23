@@ -5,10 +5,10 @@
   url = "/docs/prologue/"
 
 [[docs]]
-  name = "Help"
+  name = "Yardım"
   weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  identifier = "yardim"
+  url = "/docs/yardim/"
 
 [[main]]
   name = "Docs"
@@ -33,7 +33,7 @@
   post = "v0.1.0"
   weight = 20
 
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
+[[footer]]
+  name = "Gizlilik Politikası"
+  url = "/gizlilik-politikasi/"
+  weight = 10
