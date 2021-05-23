@@ -12,7 +12,7 @@ twitterSite = "henkverlinde"
 twitterCreator = "henkverlinde"
 facebookAuthor = "verlinde.henk"
 facebookPublisher = "verlinde.henk"
-ogLocale = "en_US"
+ogLocale = "tr_TR"
 
 ## JSON-LD
 schemaType = "Organization"
@@ -40,7 +40,7 @@ footer = "Katkı sağlayanlar <a href=\"https://www.render.com/\">Render</a>, <a
 
 # Alert
 alert = false
-alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/gohugotr/gohugotr.com\">Star on GitHub</a>. Thanks!</a>"
+alertText = "GohugoTr.com'u beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/gohugotr/gohugotr.com\">GitHub'da Yıldız verin</a>. Teşekkürler!</a>"
 
 # Edit Page
 belgelerRepo = "https://github.com/gohugotr/gohugotr.com"
