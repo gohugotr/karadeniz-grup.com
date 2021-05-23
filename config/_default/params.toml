@@ -23,7 +23,7 @@ schemaGitHub = "https://github.com/gohugotr/gohugotr.com"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
 themeColor = "#fff"
