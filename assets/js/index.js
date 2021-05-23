@@ -83,7 +83,7 @@ Source:
   });
 
   var belgeler = [
-    {{ range $index, $page := (where .Site.Pages "Section" "belgeler") -}}
+    {{ range $index, $page := (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
       {
         id: {{ $index }},
         href: "{{ .RelPermalink | relURL }}",

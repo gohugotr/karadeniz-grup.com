@@ -89,3 +89,7 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "node_modules/katex"
     target = "assets/js/vendor/katex"
+
+# Arama yapılacak içerikler
+[params]
+  mainSections = ["blog", "belgeler"] # Arama yapılacak içerikler
