@@ -52,7 +52,11 @@
   .nav-item:first-child {
     margin-left: 0;
   }
+  .w-100-ns {
+    width: 100%!important;
 }
+}
+
 
 @include media-breakpoint-down(md) {
   .navbar .container {
