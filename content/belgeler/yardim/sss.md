@@ -7,7 +7,7 @@ lastmod: 2020-10-06T08:49:31+00:00
 draft: false
 images: []
 menu:
-  docs:
+  belgeler:
     parent: "yardim"
 weight: 630
 toc: true
@@ -21,7 +21,7 @@ Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas
 
 Please keep it in place.
 
-## Keyboard shortcuts for search?
+## Arama için klavye kısayolları
 
 - focus: `/`
 - select: `↓` and `↑`

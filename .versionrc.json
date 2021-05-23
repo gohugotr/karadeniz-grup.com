@@ -4,7 +4,7 @@
     {"type": "fix", "section": "Bug Fixes"},
     {"type": "chore", "hidden": true},
     {"type": "deps", "section": "Dependencies"},
-    {"type": "docs", "section": "Documentation"},
+    {"type": "belgeler", "section": "Belgeler"},
     {"type": "style", "hidden": true},
     {"type": "refactor", "hidden": true},
     {"type": "perf", "hidden": true},

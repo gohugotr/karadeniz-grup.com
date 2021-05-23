@@ -1,18 +1,18 @@
-[[docs]]
+[[belgeler]]
   name = "Prologue"
   weight = 10
   identifier = "prologue"
-  url = "/docs/prologue/"
+  url = "/belgeler/prologue/"
 
-[[docs]]
+[[belgeler]]
   name = "Yardım"
   weight = 60
   identifier = "yardim"
-  url = "/docs/yardim/"
+  url = "/belgeler/yardim/"
 
 [[main]]
-  name = "Docs"
-  url = "/docs/prologue/introduction/"
+  name = "Belgeler"
+  url = "/belgeler/prologue/introduction/"
   weight = 10
 
 [[main]]

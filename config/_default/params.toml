@@ -43,7 +43,7 @@ alert = false
 alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/gohugotr/gohugotr.com\">Star on GitHub</a>. Thanks!</a>"
 
 # Edit Page
-docsRepo = "https://github.com/gohugotr/gohugotr.com/public"
+belgelerRepo = "https://github.com/gohugotr/gohugotr.com/public"
 editPage = false
 
 [options]
