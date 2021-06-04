@@ -5,15 +5,15 @@
 </p>
 
 <h1 align="center">
-  Gohugotr
+  Karadeniz-grup.com
 </h1>
 
 <h3 align="center">
-  Gohugo Türkiye
+   Karadeniz Grup
 </h3>
 
 <p align="center">
-  Gohugo Türkiye; Hugo ile modern, güvenli, hızlı statik web siteleri hazırlamanız için size klavuzluk etme amacını taşır.
+  KARADENİZ GRUP, 2004 yılında müşterilerinin ihtiyaçlarına cevap vermek amacıyla kurulmuş ve her geçen yıl faaliyetlerini genişleterek entegre hizmetler ve çözümler sunmaya devam etmiştir
 </p>
 <!-- 
 <p align="center">
