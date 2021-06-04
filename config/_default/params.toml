@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "GohugoTr"
+title = "Karadeniz Grup"
 titleSeparator = "-"
-titleAddition = "Gohugo Türkiye"
-description = "Gohugo Türkiye paylaşım sitesi."
+titleAddition = "Danışmanlık"
+description = "Karadeniz Grup Danışmanlık."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
@@ -19,7 +19,7 @@ schemaType = "Organization"
 schemaLogo = "logo-doks.png"
 schemaTwitter = "https://twitter.com/henkverlinde"
 schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/gohugotr/gohugotr.com"
+schemaGitHub = "https://github.com/gohugotr/karadeniz-grup.com"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -40,10 +40,10 @@ footer = "Katkı sağlayanlar <a href=\"https://www.render.com/\">Render</a>, <a
 
 # Alert
 alert = false
-alertText = "GohugoTr.com'u beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/gohugotr/gohugotr.com\">GitHub'da Yıldız verin</a>. Teşekkürler!</a>"
+alertText = "Karadeniz Grubu beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/gohugotr/karadeniz-grup.com/">GitHub'da Yıldız verin</a>. Teşekkürler!</a>"
 
 # Edit Page
-belgelerRepo = "https://github.com/gohugotr/gohugotr.com"
+belgelerRepo = "https://github.com/gohugotr/karadeniz-grup.com"
 editPage = false
 
 [options]

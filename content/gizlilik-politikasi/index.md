@@ -20,9 +20,9 @@ __TLDR__: Çerez kullanmıyoruz ve herhangi bir kişisel veri toplamıyoruz.
 
 ### Topladığımız bilgiler ve bunları ne için kullanıyoruz
 
-GohugoTr.com'da [Plausible](https://plausible.io/) analitik çalıştırıyoruz . Aşağıdaki bilgiler toplanır:
+Karadeniz-grup.com'da [Plausible](https://plausible.io/) analitik çalıştırıyoruz . Aşağıdaki bilgiler toplanır:
 
-- __Sayfa URL'si__. Bu web sitesindeki her sayfa görünümünün sayfa URL'sini izliyoruz. Bunu, hangi sayfaların görüntülendiğini ve belirli bir sayfanın kaç kez görüntülendiğini anlamak için kullanırız. Örneğin: _https://gohugotr.com_
+- __Sayfa URL'si__. Bu web sitesindeki her sayfa görünümünün sayfa URL'sini izliyoruz. Bunu, hangi sayfaların görüntülendiğini ve belirli bir sayfanın kaç kez görüntülendiğini anlamak için kullanırız. Örneğin: _https://karadeniz-grup.com/_
 - __HTTP Yönlendiren__. Yönlendirme dizesini, diğer sitelerdeki bağlantılardan bu web sitesine yönlendirilen ziyaretçi sayısını anlamak için kullanıyoruz. Örneğin: _https://github.com_.
 - __Tarayıcı__. Bunu, kişilerin bu web sitesini ziyaret ederken hangi tarayıcıları kullandıklarını anlamak için kullanıyoruz. Bu, User-Agent HTTP başlığından türetilmiştir. Tam User-Agent atılır. Örneğin: _Chrome_.
 - __İşletim sistemi__. Bunu, kişilerin bu web sitesini ziyaret ederken hangi işletim sistemlerini kullandıklarını anlamak için kullanıyoruz. Yalnızca işletim sisteminin markasını kullanıyoruz ve sürüm numarasını veya diğer ayrıntıları eklemiyoruz. Bu, User-Agent HTTP başlığından türetilmiştir. Tam User-Agent atılır. Örneğin: _GNU/Linux_.
