@@ -40,7 +40,7 @@ footer = "Katkı sağlayanlar <a href=\"https://www.render.com/\">Render</a>, <a
 
 # Alert
 alert = false
-alertText = "Karadeniz Grubu beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/gohugotr/karadeniz-grup.com/">GitHub'da Yıldız verin</a>. Teşekkürler!</a>"
+alertText = "Karadeniz Grubu beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/gohugotr/karadeniz-grup.com\">GitHub'da Yıldız verin</a>. Teşekkürler!</a>"
 
 # Edit Page
 belgelerRepo = "https://github.com/gohugotr/karadeniz-grup.com"
