@@ -36,3 +36,16 @@
   width: auto;
   object-fit: cover;
 }
+.carousel-caption{
+  background-size: auto auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to right,rgba(38, 121, 70,0.8) 0%,rgba(0, 204, 255,0.5) 100%);
+  border: 1px solid rgba(38, 121, 70,0.6);
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+
+
+ /* background-color: rgba(43, 73, 129, 0.5);  The shade of black that you want
+  background-blend-mode: saturation;*/
+}
