@@ -82,7 +82,7 @@ Source:
     },
   });
 
-  var belgeler = [
+  var hizmetler = [
     {{ range $index, $page := (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
       {
         id: {{ $index }},
@@ -94,7 +94,7 @@ Source:
     {{ end -}}
   ];
 
-  index.add(belgeler);
+  index.add(hizmetler);
 
   userinput.addEventListener('input', show_results, true);
   suggestions.addEventListener('click', accept_suggestion, true);

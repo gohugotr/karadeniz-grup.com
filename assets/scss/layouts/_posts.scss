@@ -36,16 +36,42 @@
   width: auto;
   object-fit: cover;
 }
+/* Cengiz */
+.metin-golge{
+    text-shadow: rgba(0, 0, 0, 0.4) 0.1em 0.1em 0.2em;
+}
+
+/* Cengiz */
 .carousel-caption{
   background-size: auto auto;
+  background-position: bottom;
+  background-repeat:no-repeat;
+  opacity: 0.8;
+  width:35%;
+  margin: 0 auto;
+  background-image: url('images/c6.png');
+  border-radius: 50px;
+  z-index: 20;
+  /* background-size: auto auto;
+  border: 5px solid rgba(38, 121, 70,0.6);
   background-position: center;
   background-repeat: no-repeat;
   background-image: linear-gradient(to right,rgba(38, 121, 70,0.8) 0%,rgba(0, 204, 255,0.5) 100%);
   border: 1px solid rgba(38, 121, 70,0.6);
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
-
-
- /* background-color: rgba(43, 73, 129, 0.5);  The shade of black that you want
+ background-color: rgba(43, 73, 129, 0.5);  The shade of black that you want
   background-blend-mode: saturation;*/
+}
+.slayt-perdele:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(to right,rgba(18, 77, 40, 0.753) 0%,rgba(4, 78, 97, 0.685) 100%);
+  opacity: 0.6;
+  z-index: 1;
 }

@@ -2,12 +2,12 @@
 	<div class="row flex-xl-nowrap">
 		<div class="col-lg-5 col-xl-4 docs-sidebar">
 			<nav class="docs-links" aria-label="Main navigation">
-				{{ partial "sidebar/belgeler-menu.html" . }}
+				{{ partial "sidebar/hizmetler-menu.html" . }}
 			</nav>
 		</div>
 		{{ if ne .Params.toc false -}}
 		<nav class="docs-toc d-none d-xl-block col-xl-3" aria-label="Secondary navigation">
-			{{ partial "sidebar/belgeler-toc.html" . }}
+			{{ partial "sidebar/hizmetler-toc.html" . }}
 		</nav>
 		{{ end -}}
 		{{ if .Params.toc -}}
@@ -30,7 +30,7 @@
 			{{ if .Site.Params.editPage -}}
 				{{ partial "main/edit-page.html" . }}
 			{{ end -}}
-			{{ partial "main/belgeler-navigation.html" . }}
+			{{ partial "main/hizmetler-navigation.html" . }}
 		</main>
 	</div>
 {{ end }}

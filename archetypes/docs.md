@@ -7,7 +7,7 @@ lastmod: {{ .Date }}
 draft: true
 images: []
 menu: 
-  belgeler:
+  hizmetler:
     parent: ""
 weight: 999
 toc: true

@@ -16,11 +16,11 @@ ogLocale = "tr_TR"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "logo-doks.png"
+schemaLogo = "kdz-logo-40.png"
 schemaTwitter = "https://twitter.com/henkverlinde"
 schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
 schemaGitHub = "https://github.com/gohugotr/karadeniz-grup.com"
-schemaSection = "blog"
+schemaSection = "hakkimizda"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = true
@@ -36,14 +36,14 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Katkı sağlayanlar <a href=\"https://www.render.com/\">Render</a>, <a href=\"https://gohugo.io/\">Hugo</a> ve <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Katkı sağlayanlar <a href=\"https://#/\">CyMe Yazılım</a> ve <a href=\"https://www.render.com/\">Render</a>"
 
 # Alert
 alert = false
 alertText = "Karadeniz Grubu beğendiyseniz <a class=\"alert-link\" href=\"https://github.com/gohugotr/karadeniz-grup.com\">GitHub'da Yıldız verin</a>. Teşekkürler!</a>"
 
 # Edit Page
-belgelerRepo = "https://github.com/gohugotr/karadeniz-grup.com"
+hizmetlerRepo = "https://github.com/gohugotr/karadeniz-grup.com"
 editPage = false
 
 [options]

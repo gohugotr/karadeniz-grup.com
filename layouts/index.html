@@ -1,27 +1,26 @@
 {{ define "main" }}
-<div>
-  <div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel">
+<div id="carouselExampleCaptions" class="carousel slide carousel-fade" data-bs-ride="carousel">
     <div class="carousel-indicators">
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
     </div>
-    <div class="carousel-inner">
-      <div class="carousel-item active" data-bs-interval="3000">
+    <div class="carousel-inner slayt-perdele">
+      <div class="carousel-item active" data-bs-interval="5000">
         <img src="{{site.BaseURL | absURL }}/images/danismanlik.webp" class="d-block w-100" alt="Hugo Logo">
         <div class="carousel-caption p-1 d-none d-md-block">
           <h5>Danışmanlık</h5>
           <p>Bilgilendiriyoruz, belgelendiriyoruz..</p>
         </div>
       </div>
-      <div class="carousel-item" data-bs-interval="3000">
+      <div class="carousel-item" data-bs-interval="5000">
         <img src="{{site.BaseURL | absURL }}/images/ilaclama.webp" class="d-block w-100" alt="Hugo Logo">
         <div class="carousel-caption  p-1 d-none d-md-block">
           <h5>İlaçlama-Dezenfeksiyon</h5>
           <p>Sağlıklı bir gelecek için </p>
         </div>
       </div>
-      <div class="carousel-item" data-bs-interval="3000">
+      <div class="carousel-item" data-bs-interval="5000">
         <img src="{{site.BaseURL | absURL }}/images/cevre-danismanlik.webp" class="d-block w-100" alt="Hugo Logo">
         <div class="carousel-caption p-1 d-none d-md-block">
           <h5>Çevre Danışmanlık Hizmetleri</h5>
@@ -37,7 +36,6 @@
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Next</span>
     </button>
-  </div>
 </div>
 <section class="section container-fluid mt-n3 pb-3">
   <div class="row justify-content-center">   
@@ -45,11 +43,11 @@
 
     </div>
     <div class="col-lg-12 text-center">
-      <h1 class="mt-2">{{ .Title }}</h1>
+      <h1 class="mt-2 metin-golge">{{ .Title }}</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "belgeler/prologue/introduction/" | relURL }}" role="button">Haydi Başlayalım</a>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "hizmetler/prologue/introduction/" | relURL }}" role="button">Haydi Başlayalım</a>
       <!-- <p class="meta">Açık kaynak MIT Lisanslı. <a href="https://github.com/gohugotr/gohugotr.com">GitHub v{{ .Site.Data.gohugotr.version }}</a></p> -->
     </div>
   </div>

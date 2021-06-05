@@ -7,7 +7,7 @@ lastmod: 2020-11-12T15:22:20+01:00
 draft: false
 images: []
 menu: 
-  belgeler:
+  hizmetler:
     parent: "yardim"
 weight: 620
 toc: true
