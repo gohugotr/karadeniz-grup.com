@@ -3,6 +3,7 @@
   <div class="container"> 
     <input class="menu-btn order-0" type="checkbox" id="menu-btn">
     <label class="menu-icon d-md-none" for="menu-btn"><span class="navicon"></span></label>
+    <img src="{{site.BaseURL | absURL }}/images/kdz-logo-32.png" width="32px" height="32px" class="px-2" alt="Logo">
     <a class="navbar-brand order-1 order-md-0 me-auto" href="{{ "/" | relURL }}">{{ .Site.Params.Title }}</a>
     {{ if .Site.Params.options.darkMode -}}
     <button id="mode" class="btn btn-link order-2 order-md-4" type="button" aria-label="Toggle mode">
