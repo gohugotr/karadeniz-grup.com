@@ -13,5 +13,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://karadeniz-grup-com.onrender.com/hakkimizda/index.xml
+          feed-url: https://karadeniz-grup-com.onrender.com/rss.xml
           readme-section: feed
