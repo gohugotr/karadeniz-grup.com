@@ -6,3 +6,12 @@ on:
   push:
     branches:
       - master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://karadeniz-grup-com.onrender.com/hakkimizda/index.xml
+          readme-section: feed
