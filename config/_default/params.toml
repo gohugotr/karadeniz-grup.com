@@ -60,4 +60,4 @@ editPage = false
   # Arama yapılacak içerikler
 [params]
   mainSections = ["hakkimizda", "hizmetler"] # Arama yapılacak içerikler
-  mainbg = "https://picsum.photos/1920/300.webp"
+  mainbg = "https://picsum.photos/1280/300.webp"
