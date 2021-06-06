@@ -18,7 +18,7 @@
 .navbar-light .navbar-brand,
 .navbar-light .navbar-brand:hover,
 .navbar-light .navbar-brand:active {
-  color: $body-color; 
+  color: $body-color;
 }
 
 .navbar-light .navbar-nav .active .nav-link {
@@ -53,8 +53,9 @@
   .nav-item:first-child {
     margin-left: 0;
   }
+
   .w-100-ns {
-    width: 100%!important;
+    width: 100% !important;
   }
 }
 
@@ -132,6 +133,7 @@
   padding-right: 2.5rem;
   background: $gray-100;
   border: 0;
+
   /*
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none' stroke='%236c757d' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-search'%3E%3Ccircle cx='11' cy='11' r='8'%3E%3C/circle%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'%3E%3C/line%3E%3C/svg%3E");
   background-repeat: no-repeat;

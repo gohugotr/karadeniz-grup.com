@@ -38,24 +38,24 @@
 }
 
 /* Cengiz */
-.metin-golge{
-    text-shadow: rgba(0, 0, 0, 0.4) 0.1em 0.1em 0.2em;
+.metin-golge {
+  text-shadow: rgba(0, 0, 0, 0.4) 0.1em 0.1em 0.2em;
 }
 
 /* Cengiz */
-.carousel-caption{
+.carousel-caption {
   background-size: auto auto;
   background-position: bottom;
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
   opacity: 0.7;
-  width:40%;
-  margin: 0px auto;
-  background-image: url('images/c6.png');
+  width: 40%;
+  margin: 0 auto;
+  background-image: url("images/c6.png");
   border-radius: 40px;
   z-index: 1;
 }
 
-.slayt-perdele:after {
+.slayt-perdele::after {
   content: "";
   display: block;
   position: absolute;
@@ -63,7 +63,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: linear-gradient(to right,rgba(18, 77, 40, 0.753) 0%,rgba(4, 78, 97, 0.685) 100%);
+  background: linear-gradient(to right, rgba(18, 77, 40, 0.753) 0%, rgba(4, 78, 97, 0.685) 100%);
   opacity: 0.6;
   z-index: 0;
 }
@@ -123,6 +123,7 @@
   0% {
     background-position-x: 0;
   }
+
   100% {
     background-position-x: 1000px;
   }
@@ -132,6 +133,7 @@
   0% {
     background-position-x: 0;
   }
+
   100% {
     background-position-x: -1000px;
   }
