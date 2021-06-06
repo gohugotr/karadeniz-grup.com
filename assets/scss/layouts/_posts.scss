@@ -36,6 +36,7 @@
   width: auto;
   object-fit: cover;
 }
+
 /* Cengiz */
 .metin-golge{
     text-shadow: rgba(0, 0, 0, 0.4) 0.1em 0.1em 0.2em;
@@ -52,17 +53,8 @@
   background-image: url('images/c6.png');
   border-radius: 40px;
   z-index: 1;
-  /* background-size: auto auto;
-  border: 5px solid rgba(38, 121, 70,0.6);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-image: linear-gradient(to right,rgba(38, 121, 70,0.8) 0%,rgba(0, 204, 255,0.5) 100%);
-  border: 1px solid rgba(38, 121, 70,0.6);
-  -webkit-border-radius: 50px;
-  -moz-border-radius: 50px;
- background-color: rgba(43, 73, 129, 0.5);  The shade of black that you want
-  background-blend-mode: saturation;*/
 }
+
 .slayt-perdele:after {
   content: "";
   display: block;
@@ -83,7 +75,7 @@
   overflow: hidden;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #ffffff;
+  color: #fff;
 }
 
 #mainBG .wave {
@@ -102,6 +94,7 @@
   animation-delay: 0s;
   bottom: 0;
 }
+
 #mainBG .wave.wave2 {
   animation: wave-animate2 15s linear infinite;
   z-index: 302;
@@ -109,6 +102,7 @@
   animation-delay: -5s;
   bottom: 10px;
 }
+
 #mainBG .wave.wave3 {
   animation: wave-animate 30s linear infinite;
   z-index: 301;
@@ -116,6 +110,7 @@
   animation-delay: -2s;
   bottom: 15;
 }
+
 #mainBG .wave.wave4 {
   animation: wave-animate2 5s linear infinite;
   z-index: 300;
