@@ -15,4 +15,3 @@ jobs:
         with:
           feed-url: https://karadeniz-grup-com.onrender.com/rss.xml
           readme-section: feed
-          
