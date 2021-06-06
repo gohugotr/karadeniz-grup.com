@@ -46,12 +46,12 @@
   background-size: auto auto;
   background-position: bottom;
   background-repeat:no-repeat;
-  opacity: 0.65;
+  opacity: 0.6;
   width:40%;
   margin: 0px auto;
   background-image: url('images/c6.png');
   border-radius: 40px;
-  z-index: 20;
+  z-index: 1;
   /* background-size: auto auto;
   border: 5px solid rgba(38, 121, 70,0.6);
   background-position: center;
@@ -73,5 +73,4 @@
   right: 0;
   background: linear-gradient(to right,rgba(18, 77, 40, 0.753) 0%,rgba(4, 78, 97, 0.685) 100%);
   opacity: 0.6;
-  z-index: 1;
 }
