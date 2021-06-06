@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://getdoks.org/">
-    <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
+  <a href="https://karadeniz-grup.com/">
+    <img alt="Karadeniz Grup" src="https://doks.netlify.app/doks.svg" width="60">
   </a>
 </p>
 

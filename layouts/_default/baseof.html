@@ -14,6 +14,9 @@
   {{ end -}}
   <body class="{{ .Scratch.Get "class" }}">
     {{ partial "header/header.html" . }}
+    <div>
+      {{ if not .IsHome }}{{ partial "cengiz/dalga.html" . }}{{ end }}
+    </div>
     <div class="wrap {{ if not .IsHome }}container{{ end }}" role="document">
       <div class="content">
         {{ block "main" . }}{{ end }}

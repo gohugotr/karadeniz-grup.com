@@ -56,3 +56,8 @@ editPage = false
   breadCrumb = false
   highLight = true
   kaTex = false
+
+  # Arama yapılacak içerikler
+[params]
+  mainSections = ["hakkimizda", "hizmetler"] # Arama yapılacak içerikler
+  mainbg = "https://picsum.photos/1920/300.webp"
