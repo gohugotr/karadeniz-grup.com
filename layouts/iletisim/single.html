@@ -1,9 +1,9 @@
 {{ define "main" }}
 {{ with .GetPage "iletisim"}}
 <section >
-  <div class="container">
-    <div class="row justify-content-evenly">
-        <div class="col-6" id="adres" >
+  <div class="container-fluid mb-3">
+    <div class="row flex-xl-nowrap justify-content-evenly">
+        <div class="col-sm-12 col-md-7 col-lg-6 col-xl-6" id="adres" >
           <div class="shadow p-3">
           <h5 id="contact-form">KARADENİZ GRUP</h5><hr>
              <p><strong><u>Tel</u> : </strong><br>
@@ -15,7 +15,7 @@
              <strong><u>Adres</u> : </strong><br>Cumhuriyet Cad. Reşadiye Mah. No: 66/B Terminal Girişi<p class="text-end"><strong>Merkez / RİZE</strong></p>
             </div>
         </div>
-        <div class="col-6">
+        <div class="col-sm-12 col-md-5 col-lg-6 col-xl-6">
         <form method="POST" action="{{ .Params.form_action }}" data-toggle="validator">
           <div class="row g-2">
             <div class="col-sm-6">
