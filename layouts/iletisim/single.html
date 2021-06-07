@@ -4,8 +4,8 @@
   <div class="container">
     <div class="row justify-content-evenly">
         <div class="col-6" id="adres" >
-          <h5 id="contact-form">KARADENİZ GRUP</h5>
-             <hr>
+          <div class="shadow p-3">
+          <h5 id="contact-form">KARADENİZ GRUP</h5><hr>
              <p><strong><u>Tel</u> : </strong><br>
             <span itemprop="telephone"><a href="tel:04642121878">+90 (464) 212 18 78</a></span></p>
              <p><strong><u>Tel</u> : </strong><br>
@@ -13,6 +13,7 @@
             <p><strong><u>Tel</u> : </strong><br>
             <span itemprop="telephone"><a href="tel:04642149994">+90 (464) 214 99 94</a></span></p>
              <strong><u>Adres</u> : </strong><br>Cumhuriyet Cad. Reşadiye Mah. No: 66/B Terminal Girişi<p class="text-end"><strong>Merkez / RİZE</strong></p>
+            </div>
         </div>
         <div class="col-6">
         <form method="POST" action="{{ .Params.form_action }}" data-toggle="validator">
@@ -36,7 +37,7 @@
             </div>
             <div class="row">
               <div class="col-sm-12">
-              <button class="submit form-control hvr-icon-push" type="submit" value="send"> {{.Params.submit}} </button>
+              <button class="submit form-control form-control-sm" type="submit" value="send"> {{.Params.submit}} </button>
               </div>
             </div>
         </form>
