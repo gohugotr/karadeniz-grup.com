@@ -1,10 +1,8 @@
-{{ define "main" }}
-{{ with .GetPage "iletisim"}}
-<section >
-  <div class="container-fluid mb-3">
-    <div class="row flex-xl-nowrap justify-content-evenly">
+{{ define "main" -}}
+{{ with .GetPage "iletisim" -}}
+    <div class="row justify-content-evenly mt-n4 overflow-hidden">
         <div class="col-sm-12 col-md-7 col-lg-6 col-xl-6" id="adres" >
-          <div class="shadow p-3">
+          <div class="shadow p-3 pt-0 mb-3">
           <h5 id="contact-form">KARADENİZ GRUP</h5><hr>
              <p><strong><u>Tel</u> : </strong><br>
             <span itemprop="telephone"><a href="tel:04642121878">+90 (464) 212 18 78</a></span></p>
@@ -12,7 +10,7 @@
             <span itemprop="telephone"><a href="tel:04642220202">+90 (464) 222 02 02</a></span></p>
             <p><strong><u>Tel</u> : </strong><br>
             <span itemprop="telephone"><a href="tel:04642149994">+90 (464) 214 99 94</a></span></p>
-             <strong><u>Adres</u> : </strong><br>Cumhuriyet Cad. Reşadiye Mah. No: 66/B Terminal Girişi<p class="text-end"><strong>Merkez / RİZE</strong></p>
+             <strong><u>Adres</u> : </strong><br>Cumhuriyet Cad. Reşadiye Mah. No: 66/B Terminal Girişi<div class="text-end"><strong>Merkez / RİZE</strong></div>
             </div>
         </div>
         <div class="col-sm-12 col-md-5 col-lg-6 col-xl-6">
@@ -43,25 +41,5 @@
         </form>
         </div>
     </div>
-
-<!--     <div class="row">
-      <div class="footer col-lg-10 offset-lg-1">
-        <hr>
-        <ul class="footer-icons list-inline">
-          {{ range site.Params.social }}
-          <li><a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a></li>
-          {{ end }}
-        </ul>
-        <div class="to-top">
-          <a href="#home"><i class="fa fa-chevron-up"></i></a>
-        </div>
-        <div id="footer-credit" class="credit content">
-          {{ site.Params.copyright | markdownify }}
-        </div>
-      </div>
-    </div> -->
-  </div> <!--container sonu-->
-</section>
-
-{{ end }}
-{{ end }}
+{{ end -}}
+{{ end -}}
