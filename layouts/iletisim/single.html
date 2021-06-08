@@ -1,7 +1,7 @@
 {{ define "main" -}}
 {{ with .GetPage "iletisim" -}}
-    <div class="row justify-content-evenly overflow-hidden">
-        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 shadow px-3 mb-3" id="adres">
+    <div class="row justify-content-evenly overflow-hidden mb-5">
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 shadow px-3 mb-5" id="adres">
               <h5 id="contact-form">KARADENİZ GRUP</h5><hr>
                 <p><strong><u>Tel</u> : </strong>
                 <span itemprop="telephone"><a href="tel:04642220202">+90 (464) 222 02 02</a></span></p>
@@ -11,7 +11,7 @@
                 <span itemprop="telephone"><a href="tel:04642121878">+90 (464) 212 18 78</a></span></p>
                 <strong><u>Adres</u> : </strong><br>Cumhuriyet Cad. Reşadiye Mah. No: 66/B Terminal Girişi<div class="text-end px-3 pb-1"><strong>Merkez / RİZE</strong></div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mt-1 shadow px-3 mb-3">
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mt-1 shadow px-3 mb-5">
           <h5 id="bize-sor">BİZE SORUN</h5>
           <form method="POST" action="{{ .Params.form_action }}" data-toggle="validator">
             <div class="row g-2">
@@ -25,7 +25,6 @@
                 <div class="help-block with-errors"></div>
               </div>
             </div>
-
             <div class="col-sm my-2">
             <textarea class="form-control form-control-sm" name="message" id="message" rows="6"
               placeholder="{{.Params.message}}"></textarea>
