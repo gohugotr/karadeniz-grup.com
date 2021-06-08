@@ -1,44 +1,39 @@
 {{ define "main" -}}
 {{ with .GetPage "iletisim" -}}
-    <div class="row justify-content-evenly mt-n4 overflow-hidden">
-        <div class="col-sm-12 col-md-7 col-lg-6 col-xl-6" id="adres">
-          <div class="shadow p-3 pt-0 mb-3">
-          <h5 id="contact-form">KARADENİZ GRUP</h5><hr>
-             <p><strong><u>Tel</u> : </strong><br>
-            <span itemprop="telephone"><a href="tel:04642121878">+90 (464) 212 18 78</a></span></p>
-             <p><strong><u>Tel</u> : </strong><br>
-            <span itemprop="telephone"><a href="tel:04642220202">+90 (464) 222 02 02</a></span></p>
-            <p><strong><u>Tel</u> : </strong><br>
-            <span itemprop="telephone"><a href="tel:04642149994">+90 (464) 214 99 94</a></span></p>
-             <strong><u>Adres</u> : </strong><br>Cumhuriyet Cad. Reşadiye Mah. No: 66/B Terminal Girişi<div class="text-end"><strong>Merkez / RİZE</strong></div>
-            </div>
+    <div class="row justify-content-evenly overflow-hidden">
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 shadow px-3 mb-3" id="adres">
+              <h5 id="contact-form">KARADENİZ GRUP</h5><hr>
+                <p><strong><u>Tel</u> : </strong><br>
+                <span itemprop="telephone"><a href="tel:04642121878">+90 (464) 212 18 78</a></span></p>
+                <p><strong><u>Tel</u> : </strong><br>
+                <span itemprop="telephone"><a href="tel:04642220202">+90 (464) 222 02 02</a></span></p>
+                <p><strong><u>Tel</u> : </strong><br>
+                <span itemprop="telephone"><a href="tel:04642149994">+90 (464) 214 99 94</a></span></p>
+                <strong><u>Adres</u> : </strong><br>Cumhuriyet Cad. Reşadiye Mah. No: 66/B Terminal Girişi<div class="text-end px-2 pb-1"><strong>Merkez / RİZE</strong></div>
         </div>
-        <div class="col-sm-12 col-md-5 col-lg-6 col-xl-6 mt-4">
-        <form method="POST" action="{{ .Params.form_action }}" data-toggle="validator">
-          <div class="row g-2">
-            <div class="col-sm-6">
-              <input class="form-control form-control-sm" type="text" name="username" id="username" placeholder="{{.Params.name}}"
-              required>
-              <div class="help-block with-errors"></div>
-            </div>
-            <div class="col-sm-6">
-              <input class="form-control form-control-sm" type="email" id="email" name="email" placeholder="{{.Params.email}}" required>
-              <div class="help-block with-errors"></div>
-            </div>
-          </div>
-            <div class="row">
-              <div class="col-sm-12">
-              <textarea class="form-control form-control-sm" name="message" id="message" rows="6"
-                placeholder="{{.Params.message}}"></textarea>
-              <div class="help-block with-errors"></div>
+        <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 mt-1 shadow px-3 mb-3">
+          <h5 id="bize-sor">BİZE SORUN</h5>
+          <form method="POST" action="{{ .Params.form_action }}" data-toggle="validator">
+            <div class="row g-2">
+              <div class="col-sm">
+                <input class="form-control form-control-sm" type="text" name="username" id="username" placeholder="{{.Params.name}}"
+                required>
+                <div class="help-block with-errors"></div>
+              </div>
+              <div class="col-sm">
+                <input class="form-control form-control-sm" type="email" id="email" name="email" placeholder="{{.Params.email}}" required>
+                <div class="help-block with-errors"></div>
               </div>
             </div>
-            <div class="row">
-              <div class="col-sm-12">
-              <button class="submit form-control form-control-sm" type="submit" value="send"> {{.Params.submit}} </button>
-              </div>
+
+            <div class="col-sm my-2">
+            <textarea class="form-control form-control-sm" name="message" id="message" rows="6"
+              placeholder="{{.Params.message}}"></textarea>
+            <div class="help-block with-errors"></div>
             </div>
-        </form>
+            <div class="text-end pb-2">
+            <button class="submit form-control-sm btn btn-primary" type="submit" value="send"> {{.Params.submit}} </button></div>
+          </form>
         </div>
     </div>
 {{ end -}}
