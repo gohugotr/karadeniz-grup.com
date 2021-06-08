@@ -39,7 +39,7 @@ body.dark .btn-primary {
 
 body.dark .btn-outline-primary {
   @include button-outline-variant($button-color-dark, $button-color-dark);
-
+  
   color: $link-color-dark;
 }
 

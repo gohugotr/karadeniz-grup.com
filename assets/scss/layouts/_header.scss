@@ -41,6 +41,24 @@
 
 .nav-item {
   margin-left: 1.25rem;
+  position: relative; /* Cengiz */
+}
+
+/* Cengiz */
+.nav-item::after{
+  content: '';
+  height: 3px;
+  width: 0;
+  background: $yesil;
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  transition: 0.5s;
+}
+
+/* Cengiz */
+.nav-item:hover::after{
+  width: 100%;
 }
 
 @include media-breakpoint-up(md) {

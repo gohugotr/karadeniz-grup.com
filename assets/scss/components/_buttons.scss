@@ -89,3 +89,24 @@ body.dark .toggle-dark {
   display: block;
   color: $pink-500;
 }
+
+/* Cengiz */
+#haydi-basla, #iletisim-gonder {
+  position: relative;
+  overflow: hidden;
+    span{
+      background: $yesil;
+      height: 100%;
+      width: 0;
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      z-index: -1;
+      transition: 1s; 
+    }
+    &:hover{
+        span{
+          width: 100%;
+        }
+  } 
+}
