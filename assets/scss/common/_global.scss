@@ -227,3 +227,14 @@ body {
 .katex {
   font-size: $font-size-md;
 }
+
+/* Cengiz scrollbar gizlendi ama çalışıyor for Chrome, Safari and Opera */
+.scroll-gizle::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.scroll-gizle{
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
