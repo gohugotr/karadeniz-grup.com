@@ -1,4 +1,4 @@
-<section>
+<section>{{/*  https://coderwall.com/p/6qaeya/lazy-carousel-in-bootstrap  */}}
   <div id="carouselExampleCaptions" class="carousel slide lazy" data-bs-ride="carousel">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -14,14 +14,14 @@
           </div>
         </div>
         <div class="carousel-item" data-bs-interval="5000">
-          <img src="{{site.BaseURL | absURL }}/images/ilaclama.webp" class="d-block w-100" alt="Dezenfeksiyon">
+          <img data-src="{{site.BaseURL | absURL }}/images/ilaclama.webp" class="d-block w-100" alt="Dezenfeksiyon">
           <div class="carousel-caption  p-1 d-none d-md-block">
             <h5>İlaçlama-Dezenfeksiyon</h5>
             <p>Sağlıklı bir gelecek için </p>
           </div>
         </div>
         <div class="carousel-item" data-bs-interval="5000">
-          <img src="{{site.BaseURL | absURL }}/images/cevre-danismanlik.webp" class="d-block w-100" alt="Çevre Danışmanlık Hizmetleri">
+          <img data-src="{{site.BaseURL | absURL }}/images/cevre-danismanlik.webp" class="d-block w-100" alt="Çevre Danışmanlık Hizmetleri">
           <div class="carousel-caption p-1 d-none d-md-block">
             <h5>Çevre Danışmanlık Hizmetleri</h5>
             <p>Gelecek nesillere daha güzel bir çevre için.</p>
