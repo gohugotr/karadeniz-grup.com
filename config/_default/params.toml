@@ -23,7 +23,7 @@ schemaGitHub = "https://github.com/gohugotr/karadeniz-grup.com"
 schemaSection = "hakkimizda"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = true
+siteLinksSearchBox = false
 
 ## Chrome Browser
 themeColor = "#fff"
@@ -44,15 +44,15 @@ alertText = "Karadeniz Grubu beğendiyseniz <a class=\"alert-link\" href=\"https
 
 # Edit Page
 hizmetlerRepo = "https://github.com/gohugotr/karadeniz-grup.com"
-editPage = false
+editPage = true
 
 [options]
-  lazySizes = true
+  lazySizes = false
   clipBoard = true
   instantPage = true
   flexSearch = true
   darkMode = true
-  bootStrapJs = true
+  bootStrapJs = false
   breadCrumb = false
   highLight = true
   kaTex = false
