@@ -1,0 +1,16 @@
+{{/*  https://zwbetz.com/style-a-markdown-table-with-bootstrap-classes-in-hugo/  */}}
+{{ $htmlTable := .Inner | markdownify }}
+{{ $class := .Get 0 }}
+{{ $old := "<table>" }}
+{{ $new := printf "<table class=\"%s\">" $class }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $htmlTable | safeHTML }}
+
+{{/*  Örnek
+{{< bootstrap-table "table table-dark table-striped table-bordered" >}}
+| Animal  | Sounds |
+|---------|--------|
+| Cat     | Meow   |
+| Dog     | Woof   |
+| Cricket | Chirp  |
+{{< /bootstrap-table >}}  */}}
