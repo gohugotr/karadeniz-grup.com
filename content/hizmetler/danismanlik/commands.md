@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   hizmetler:
-    parent: "prologue"
+    parent: "danismanlik"
 weight: 130
 toc: true
 ---

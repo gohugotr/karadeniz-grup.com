@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   hizmetler:
-    parent: "prologue"
+    parent: "danismanlik"
 weight: 100
 toc: true
 ---
@@ -53,6 +53,6 @@ See what others have build with Doks. [Showcase →](https://getdoks.org/showcas
 
 Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
 
-## Yardım
+## İlaçlama
 
-Get help on Doks. [Help →]({{< relref "how-to-update" >}})
+İlaçlama ve Dezenfeksiyon Hizmetleri. [İlaçlama →]({{< relref "hasere-kontrol" >}})

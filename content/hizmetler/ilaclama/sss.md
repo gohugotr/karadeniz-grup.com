@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   hizmetler:
-    parent: "yardim"
+    parent: "ilaclama"
 weight: 630
 toc: true
 ---

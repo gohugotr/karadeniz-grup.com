@@ -1,18 +1,18 @@
 [[hizmetler]]
-  name = "Prologue"
+  name = "Danışmanlık"
   weight = 10
-  identifier = "prologue"
-  url = "/hizmetler/prologue/"
+  identifier = "danismanlik"
+  url = "/hizmetler/danismanlik/"
 
 [[hizmetler]]
-  name = "Yardım"
+  name = "İlaçlama"
   weight = 60
-  identifier = "yardim"
-  url = "/hizmetler/yardim/"
+  identifier = "ilaclama"
+  url = "/hizmetler/ilaclama/"
 
 [[main]]
   name = "Hizmetler"
-  url = "/hizmetler/prologue/introduction/"
+  url = "/hizmetler/danismanlik/introduction/"
   weight = 10
 
 [[main]]
