@@ -1,5 +1,5 @@
 ---
-title: "SSS"
+title: "Sık sorulan sorular"
 description: "Sık sorulan soruların cevapları."
 lead: "Sık sorulan soruların cevapları."
 date: 2020-10-06T08:49:31+00:00
@@ -13,38 +13,37 @@ weight: 630
 toc: true
 ---
 
-## Hyas?
+#### Evimi ilaçlatacağım, ilaçlama firmasını seçerken nelere dikkat etmeliyim?
 
-Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
+Yaz geliyor, kapılar pencereler artık daha uzun sürelerle açık duracak, dış alanda daha fazla zaman geçirilecek, doğa canlanacak ve nihayetinde her türlü haşere evlerimize ve bizlere daha kolay ulaşabilecek.
 
-## Footer notice?
+Peki, evlerimizde / işyerlerimizde böceklerden korunmak için almamız gereken önlemleri biliyoruz ancak kendimize sormamız gerektiğini düşündüğüm daha derin bazı sorular var. Düşünsenize sizlerin çocuklarınızın, gıdaların vb. olduğu bir yere birileri gelecek ve kimyasal bir uygulama yapacak.
 
-Please keep it in place.
+Unutmayın “ Şifa ile Zehri birbirinden ayıran dozdur.”
 
-## Arama için klavye kısayolları
+Bu konunun ne kadar önemli olduğunu alttaki sorulara cevaplar düşünerek başlayabiliriz:
 
-- focus: `/`
-- select: `↓` and `↑`
-- open: `Enter`
-- close: `Esc`
+- Kimyasal vb. bir uygulamaya ihtiyacım olduğunda ilaçlama firmasına nasıl güveneceğiz?
+- Herkes ilaçlama yapabilir mi?
+- İlaçlama firmasının sahip olması gerekli olan belgeler nelerdir?
+- Kullanılacak kimyasallar ruhsatlı mı? Ruhsatları hala geçerli mi?
 
-## Other documentation?
+Ülkemizde bu uygulamalar TC Sağlık Bakanlığı tarafından 2005 yılı itibarı ile önce “Halk Sağlığı Alanında Haşerelerle Mücadale” ismi ile sonrasında da “Biyosidal Ürün Uygulama Yönetmeliği” başlıkları altında tüm detayları ile belirlendi. THSK (Türkiye Halk Sağlığı Kurumu – Çevre Sağlığı Birimi) yetkilileri tarafından yıl boyunca en az 4 kez olmak üzere tüm ilaçlama firmalarının ofisleri, depoları ve saha operasyonları denetlenmektedir. Dolayısı ile ilaçlama firmalarının “Biyosidal Ürün Uygulama İzni Belgesi“ ne sahip olması ülkemizdeki ilk şarttır. Ama sizlerin ve en sevdiklerinizin olduğu ortamlarda kimyasal kullanılmasına izin vermek için bu yeterli değildir.
 
-- [Netlify](https://docs.netlify.com/)
-- [Hugo](https://gohugo.io/documentation/)
+Bu izin belgesine sahip olunmasına rağmen uygulamaya gelecek her kişinin de aynı yönetmelikte detayları bildirildiği şekilde “Mesul Md veya Biyosidal Ürün Uygulayıcı” eğitimlerini tamamlamış ve sınavlarını geçerek sertifikalarını almış olmaları gerekmektedir.
 
-## Can I get support?
+#### İlaçlama firmalarının sahip olması gereken belgeler nelerdir?
 
-Create a topic:
+İlaçlama firmasını seçerken üstteki zorunlu belgelere ek olarak tercihinizde hangi firmaya öncelik vereceğinize yardımcı olacak olan Safran İlaçlama’nın çok uzun yıllardır sahip olduğu ulusal ve uluslararası bazı belgeler çok önemlidir;
 
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+- TSE HYB (Hizmet Yeterlilik Belgesi – TS8358)
+- ISO9001 (Kalite Yönetim Sistemi)
+- ISO14001 (Çevre Yönetim Sistemi)
+- OHSAS18001 (İşçi ve İş Sağlığı Güveliği Yönetim Sistemi)
+- NPMA (National Pest Management Assoc-USA-Amerikan Ulusal Zararlı Yönetimi Birliği üyeliği)
+- BPCA (British Pest Control Assoc – UK – İngiliz Zararlı Kontrol Birliği Üyeliği)
+- Çalışanların tamamının AIB (American Institute of Baking) ve BRC (British Retail Consortium) gibi eğitimleri almış olmaları.
 
-## Contact the creator?
+Kullanılacak kimyasalların MSDS, etiket ve ruhsat bilgilerini mutlaka sorunuz. Mutlaka evinizde veya apartmanınızda dahi uygulama yaptıracak olsanız kullanılan kimyasaldan numune alınız ve mutlaka Biyosidal Ürün Uygulama formu adı altında hazırlanan ve firmanın yetkili ve uygulayıcılarının imzası ile sizin imzanızın atılması sonucu tutanak haline gelen bu formu da ilaçlama firmanızdan isteyiniz.
 
-Send `h-enk` a message:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+Üstte bahsettiğimiz ulusal ve uluslararası tüm bu belgelere ve üyeliklere sahip, eğitim ve denetimlerini hem yerel hem de yurt dışından alan ülkemizin tek firması olan Safran ilaçlama ve ekipleri; hangi uygulamayı, hangi haşere türüne karşı, hangi metot ile ne sıklıkla ve hangi dozda uygulaması gerektiğini bilecek, sizlere detayları ile anlatacak, sizler daha sormadan gerekli rapor ve tutanakları sizlerle paylaşacak ve dolayısı ile sizleri, en sevdiklerinizi asla riske atmayacaklardır.
