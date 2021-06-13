@@ -1,5 +1,5 @@
 ---
-title: "Sık sorulan sorular"
+title: "Sık Sorulan Sorular"
 description: "Sık sorulan soruların cevapları."
 lead: "Nelere dikkat etmeliyim."
 date: 2020-10-06T08:49:31+00:00
