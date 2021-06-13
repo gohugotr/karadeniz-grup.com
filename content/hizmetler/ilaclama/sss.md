@@ -1,7 +1,7 @@
 ---
 title: "Sık sorulan sorular"
 description: "Sık sorulan soruların cevapları."
-lead: "Sık sorulan soruların cevapları."
+lead: "Nelere dikkat etmeliyim."
 date: 2020-10-06T08:49:31+00:00
 lastmod: 2020-10-06T08:49:31+00:00
 draft: false
@@ -13,7 +13,7 @@ weight: 630
 toc: true
 ---
 
-#### Evimi ilaçlatacağım, ilaçlama firmasını seçerken nelere dikkat etmeliyim?
+## Evimi ilaçlatacağım, ilaçlama firmasını seçerken nelere dikkat etmeliyim?
 
 Yaz geliyor, kapılar pencereler artık daha uzun sürelerle açık duracak, dış alanda daha fazla zaman geçirilecek, doğa canlanacak ve nihayetinde her türlü haşere evlerimize ve bizlere daha kolay ulaşabilecek.
 
@@ -32,7 +32,7 @@ Bu konunun ne kadar önemli olduğunu alttaki sorulara cevaplar düşünerek ba�
 
 Bu izin belgesine sahip olunmasına rağmen uygulamaya gelecek her kişinin de aynı yönetmelikte detayları bildirildiği şekilde “Mesul Md veya Biyosidal Ürün Uygulayıcı” eğitimlerini tamamlamış ve sınavlarını geçerek sertifikalarını almış olmaları gerekmektedir.
 
-#### İlaçlama firmalarının sahip olması gereken belgeler nelerdir?
+## İlaçlama firmalarının sahip olması gereken belgeler nelerdir?
 
 İlaçlama firmasını seçerken üstteki zorunlu belgelere ek olarak tercihinizde hangi firmaya öncelik vereceğinize yardımcı olacak olan Safran İlaçlama’nın çok uzun yıllardır sahip olduğu ulusal ve uluslararası bazı belgeler çok önemlidir;
 
