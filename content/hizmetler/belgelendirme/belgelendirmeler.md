@@ -15,7 +15,7 @@ belgeUstfoto: "/images/belgelendirme/ISO.webp"
 belgeUstfotoSize: "background-size: auto 320px"
 ---
 
-<div class="text-center">
+<!-- <div class="text-center">
 <img src="/images/belgelendirme/ISO-9001.webp"  width="115px" height="110px" class="img-fluid m-2 maviden-beyaza" alt="ISO 9001">
 <img src="/images/belgelendirme/ISO-10002.webp" width="115px" height="110px" class="img-fluid m-2 maviden-beyaza" alt="ISO 10002">
 <img src="/images/belgelendirme/ISO-14001.webp" width="115px" height="110px" class="img-fluid m-2 maviden-beyaza" alt="ISO 14001">
@@ -25,7 +25,7 @@ belgeUstfotoSize: "background-size: auto 320px"
 <img src="/images/belgelendirme/ISO-28000.webp" width="115px" height="110px" class="img-fluid m-2 maviden-beyaza" alt="ISO 28000">
 <img src="/images/belgelendirme/ISO-45001.webp" width="115px" height="110px" class="img-fluid m-2 maviden-beyaza" alt="ISO 45001">
 <img src="/images/belgelendirme/ISO-50001.webp" width="115px" height="110px" class="img-fluid m-2 maviden-beyaza" alt="ISO 50001 Enerji yonetimi">
-</div>
+</div> -->
 
 ### A- Sistem Belgelendirme
 
