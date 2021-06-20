@@ -1,0 +1,60 @@
+{{/*  Get shortcode variables  */}}
+{{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $alt := .Get "alt" }}
+{{ $style := .Get "style" | safeCSS }}
+
+{{/*  Checks if src file is an SVG. If not, continue...  */}}
+{{ if strings.HasSuffix $src ".svg"}}
+  <img class="lazyload" src="{{ $src.RelPermalink }}">
+{{ else }}
+
+  {{/*  Change "16x" width if your aspect ratio is different. The correct aspect ratio helps to prevent reflow.  */}}
+  {{ $lqip := $src.Resize "16x"  | images.Filter (images.Contrast -100) }}
+  {{ $img := imageConfig ($src.RelPermalink | printf "content/%s" ) }}
+  {{ $src_set := ""}}
+  {{ $src_set = (print $src.RelPermalink " " $src.Width "w") }}
+
+  {{/*  Change small image size to your needs  */}}
+  {{ if ge $src.Width "960" }}
+  {{ $small := $src.Resize "960x" }}
+  {{ $src_set = (print $src_set ", "  $small.RelPermalink " 960w") }}
+  {{ end }}
+
+  {{/*  Change medium image size to your needs  */}}
+  {{ if ge $src.Width "1280" }}
+  {{ $medium := $src.Resize "1280x" }}
+  {{ $src_set = (print $src_set ", "  $medium.RelPermalink " 1280w") }}
+  {{ end }}
+
+  {{/*  Change large image size to your needs  */}}
+  {{ if ge $src.Width "1920" }}
+  {{ $large := $src.Resize "1920x" }}
+  {{ $src_set = (print $src_set ", "  $large.RelPermalink " 1920w") }}
+  {{ end }}
+
+  {{/*  Change xlarge image size to your needs  */}}
+  {{ if ge $src.Width "2048" }}
+  {{ $xlarge := $src.Resize "2048x" }}
+  {{ $src_set = (print $src_set ", "  $xlarge.RelPermalink " 2048w") }}
+  {{ end }}
+
+  {{/*  Add or remove additional sizes to suit your needs  */}}
+
+  {{/*  remove this div if you need to  */}}
+  <div class="img__wrap">
+
+    {{/*  leave below as is  */}}
+      <img
+        class="lazyload"
+        data-sizes="auto"
+        src="data:image/jpeg;base64,{{ $lqip.Content | base64Encode }}"
+        data-srcset="{{ $src_set }}"
+        data-src="{{ $src.RelPermalink }}"
+        width="{{ $img.Width }}"
+        height="{{ $img.Height }}"
+        alt="{{ $alt }}"
+        {{ if $style}}style="{{ $style }}"{{ end }}
+      />
+  </div>
+
+{{ end }}
