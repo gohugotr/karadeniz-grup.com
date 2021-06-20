@@ -14,7 +14,7 @@ toc: true
 ---
 
 <div class="text-center">
-<img src="/images/belgelendirme/iso-9001.png" width="220px" height="220px" class="img-fluid p-1" alt="ISO 9001"></div>
+<img src="/images/belgelendirme/ISO-9001.webp" width="180px" height="180px" class="img-fluid p-1 maviden-beyaza" alt="ISO 9001"></div>
 
 ### ISO 9001 Kalite Yönetim Sistemi
 
@@ -54,7 +54,7 @@ ISO 9001 Standardı, Kalite Yönetim Sistemi'nin nasıl oluşturulacağını tam
 * Sistematik ve yönetsel bir altyapı kurarak kurumsallaşma yolunda bir adım daha ileriye gidilmesini sağlar.
 * Kurumsal kimlik, istikrarı da beraberinde getirir.
 
-<div class="text-center"><img src="/images/belgelendirme/iso-14001.png" width="260px" height="260px" class="img-fluid p-1" alt="ISO 14001"></div>
+<div class="text-center"><img src="/images/belgelendirme/ISO-14001.webp" width="180px" height="180px" class="img-fluid p-1 maviden-beyaza" alt="ISO 14001"></div>
 
 ### ISO 14001 Çevre Yönetim Sistemi
 
@@ -89,7 +89,7 @@ ISO 14001, ürünün hammaddeden başlayarak müşteriye sunulmasına kadar olan
 * Yeşil üretim süreçlerinin önemli olduğu pazarlara girmeyi kolaylaştırır.
 
 <div class="text-center">
-<img src="/images/belgelendirme/iso-22000.png" width="280px" height="280px" class="img-fluid" alt="ISO 22000"></div>
+<img src="/images/belgelendirme/ISO-22000.webp" width="180px" height="180px" class="img-fluid p1 maviden-beyaza" alt="ISO 22000"></div>
 
 ### ISO 22000 Gıda Güvenliği Yönetim Sistemi
 
@@ -130,7 +130,7 @@ ISO 22000 Standardı'nın temel yaklaşımı, tüketicinin gıda kaynaklı hasta
 * Tedarikçi olarak yurtdışı pazarlarda diğer kuruluşlarla uyum ve dış pazarda daha etkin pazarlama sağlar.
 * Ekonomik büyüme ve kalkınma için potansiyel artışı görülür.
 
-<div class="text-center"><img src="/images/belgelendirme/iso-27001.jpg" width="200px" height="200px" class="img-fluid p-1" alt="ISO 27001"></div>
+<div class="text-center"><img src="/images/belgelendirme/ISO-27001.webp" width="180px" height="180px" class="img-fluid p-1" alt="ISO 27001"></div>
 
 ### ISO 27001 Bilgi Güvenliği Yönetim Sistemi
 
@@ -168,7 +168,7 @@ ISO 27001 Bilgi Güvenliği Yönetim Sistemi, kurumsal bilgi güvenliğinin sağ
 * Elektronik haberleşme şebekesi sağlayan ve alt yapısını işleten firmalar
 * Bilişim sektöründe faaliyet gösteren ve kamu ihalelerine giren yazılım, donanım ve entegratör firmalar
 
-<div class="text-center"><img src="/images/belgelendirme/iso-45001.png" width="180px" height="200px" class="img-fluid p-1" alt="ISO 45001"></div>
+<div class="text-center"><img src="/images/belgelendirme/ISO-45001.webp" width="180px" height="180px" class="img-fluid p-1 maviden-beyaza" alt="ISO 45001"></div>
 
 ### ISO 45001 İş Sağlığı Ve Güvenliği Yönetim Sistemi
 
@@ -211,7 +211,7 @@ Birçok kuruluş, değişen yasalara uyum sağlamak ve iş güçlerini korumak a
 * Resmi makamlar önünde, kuruluşun iş güvenliğine olan duyarlılığını kanıtlar.
 * Diğer yönetim sistemi standartlarına entegre bir sistem kurulabilmesi avantajı ile doküman, çaba, sistem tasarrufu sağlar.
 
-<div class="text-center"><img src="/images/belgelendirme/iso-50001-Enerji-yonetimi.png" width="180px" height="180px" class="img-fluid p-1" alt="ISO 50001 Enerji yonetimi"></div>
+<div class="text-center"><img src="/images/belgelendirme/ISO-50001.webp" width="180px" height="180px" class="img-fluid p-1 maviden-beyaza" alt="ISO 50001 Enerji yonetimi"></div>
 
 ### ISO 50001 Enerji Yönetim Sistemi
 
@@ -231,7 +231,7 @@ Enerji yönetimi, güvenlikten, üretim kalite ve miktarından, çevresel soruml
 * Sera gazı emisyonlarının azaltılmasında katkı sağlar.
 * Diğer yönetim sistemleri ile entegrasyonu halinde kaynak tasarrufu sağlar.
 
-<div class="text-center"><img src="/images/belgelendirme/iso-10002.jpg" width="200px" height="200px" class="img-fluid p-1" alt="ISO 10002"></div>
+<div class="text-center"><img src="/images/belgelendirme/ISO-10002.webp" width="180px" height="180px" class="img-fluid p-1 maviden-beyaza" alt="ISO 10002"></div>
 
 ### ISO 10002 Müşteri Memnuniyeti Yönetim Sistemi
 
@@ -249,7 +249,7 @@ ISO 10002 Müşteri Memnuniyeti Yönetim Sistemi, şirketin potansiyel müşteri
 * Kuruluşun itibarını arttırır.
 * Müşterileri elde tutma maliyetlerini azaltır.
 
-<div class="text-center"><img src="/images/belgelendirme/iso-28000.jpg" width="250px" height="250px" class="img-fluid p-1" alt="ISO 28000"></div>
+<div class="text-center"><img src="/images/belgelendirme/ISO-28000.webp" width="180px" height="180px" class="img-fluid p-1 maviden-beyaza" alt="ISO 28000"></div>
 
 ### ISO 28000 Tedarik Zinciri Güvenliği Yönetim Sistemi
 
@@ -267,7 +267,7 @@ ISO 28000 Tedarik Zinciri Güvenliği Yönetim Sistemi Standardı, yönetim sist
 * Sistemin belgelendirilmesi kuruluşun bütünsel imajına katkıda bulunur.
 * Müşteri ihtiyaçlarının karşılanabilmesi yolu ile müşterilerin tatmin düzeylerinde artışlar sağlar.
 
-<div class="text-center"><img src="/images/belgelendirme/iso-13485.png" width="180px" height="200px" class="img-fluid p-1" alt="ISO 28000"></div>
+<div class="text-center"><img src="/images/belgelendirme/ISO-13485.webp" width="180px" height="180px" class="img-fluid p-1 maviden-beyaza" alt="ISO 13485"></div>
 
 ### ISO 13485 Tıbbi Cihazlar İçin Kalite Yönetim Sistemi
 
