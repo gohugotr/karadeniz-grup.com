@@ -44,7 +44,7 @@ alertText = "Karadeniz Grubu beğendiyseniz <a class=\"alert-link\" href=\"https
 
 # Edit Page
 hizmetlerRepo = "https://github.com/gohugotr/karadeniz-grup.com"
-editPage = true
+editPage = false
 
 [options]
   lazySizes = false
