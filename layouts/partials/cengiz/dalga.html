@@ -1,5 +1,5 @@
 <div id="mainBG"
-style="background-image: url('{{ if $.Site.Params.mainbg }}{{ $.Site.Params.mainbg }}{{ else }}https://picsum.photos/1280/300.webp{{ end }}');"
+style="background-image: url('{{ if $.Param "belgeUstfoto" }}{{ $.Param "belgeUstfoto" }}{{ else }}{{$.Site.Params.params.mainbg}}{{ end }}');{{ if $.Param "belgeUstfotoSize" }}{{ $.Param "belgeUstfotoSize" }}{{ end }}"
 >
 <div
   class="wave wave1"

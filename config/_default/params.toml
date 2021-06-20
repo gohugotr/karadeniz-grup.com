@@ -46,6 +46,8 @@ alertText = "Karadeniz Grubu beğendiyseniz <a class=\"alert-link\" href=\"https
 hizmetlerRepo = "https://github.com/gohugotr/karadeniz-grup.com"
 editPage = false
 
+
+
 [options]
   lazySizes = false
   clipBoard = true
@@ -61,3 +63,4 @@ editPage = false
 [params]
   mainSections = ["hakkimizda", "hizmetler"] # Arama yapılacak içerikler
   mainbg = "https://picsum.photos/1280/300.webp"
+  belgeUstfoto = "/images/belgelendirme/ISO.webp"

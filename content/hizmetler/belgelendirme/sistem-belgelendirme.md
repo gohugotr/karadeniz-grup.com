@@ -11,6 +11,8 @@ menu:
     parent: "belgelendirme"
 weight: 120
 toc: true
+belgeUstfoto: "/images/belgelendirme/ISO.webp"
+belgeUstfotoSize: "background-size: auto 320px"
 ---
 
 <div class="text-center">
