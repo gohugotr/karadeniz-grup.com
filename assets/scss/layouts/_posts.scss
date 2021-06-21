@@ -75,6 +75,7 @@
   overflow: hidden;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: top center;
   color: #fff;
 }
 
@@ -108,7 +109,7 @@
   z-index: 301;
   opacity: 0.2;
   animation-delay: -2s;
-  bottom: 15;
+  bottom: 15px;
 }
 
 #mainBG .wave.wave4 {

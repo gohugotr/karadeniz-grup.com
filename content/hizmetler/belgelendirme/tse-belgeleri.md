@@ -12,7 +12,7 @@ menu:
 weight: 130
 toc: true
 belgeUstfoto: "/images/belgelendirme/ISO.webp"
-belgeUstfotoSize: "background-size: auto 320px"
+belgeUstfotoSize: "background-size: auto 40vh"
 ---
 
 <div class="text-center">
