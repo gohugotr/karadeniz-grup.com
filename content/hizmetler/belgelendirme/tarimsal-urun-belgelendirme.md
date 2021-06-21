@@ -9,7 +9,7 @@ images: []
 menu:
   hizmetler:
     parent: "belgelendirme"
-weight: 130
+weight: 140
 toc: true
 belgeUstfoto: "/images/belgelendirme/ISO.webp"
 belgeUstfotoSize: "background-size: auto 40vh"
