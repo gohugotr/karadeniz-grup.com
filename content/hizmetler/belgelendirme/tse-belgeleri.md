@@ -16,7 +16,7 @@ belgeUstfotoSize: "background-size: auto 40vh"
 ---
 
 <div class="text-center">
-<img src="/images/belgelendirme/tse.png" width="300px" height="174px" class="img-fluid p-1" alt="TSE"></div>
+<img src="/images/belgelendirme/tse.webp" width="300px" height="174px" class="img-fluid p-1" alt="TSE"></div>
 
 ### TSE Hizmet Yeterlilik Belgesi - HYB
 

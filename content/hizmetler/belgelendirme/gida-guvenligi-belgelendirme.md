@@ -16,7 +16,7 @@ belgeUstfotoSize: "background-size: auto 40vh"
 ---
 
 <div class="text-center">
-<img src="/images/belgelendirme/brc-global-standards.jpg" width="360px" height="240px" class="img-fluid p-1" alt="ISO 9001"></div>
+<img src="/images/belgelendirme/brc-global-standards.webp" width="300px" height="300px" class="img-fluid p-1" alt="ISO 9001"></div>
 
 ### BRC Küresel Gıda Standardı - British Retail Consortium
 
@@ -46,7 +46,7 @@ BRC Gıda Güvenliği belgesi bir ürünün aynı zamanda HACCP koşullarını s
   BRC dünyanın en büyük gıda örgütü GFSI tarafından tanınan kabul gören bir standarttır. BRC ile çok geniş bir satın alma ağının içerisine dahil olmuş olursunuz.
 
 <div class="text-center">
-<img src="/images/belgelendirme/FSSC-22000-IFS-FOOD.png" width="292px" height="173px" class="img-fluid p-1" alt="FSSC 22000 IFS FOOD"></div>
+<img src="/images/belgelendirme/FSSC-22000-IFS-FOOD.webp" width="300px" height="300px" class="img-fluid p-1" alt="FSSC 22000 IFS FOOD"></div>
 
 ### IFS Belgesi
 
@@ -60,7 +60,7 @@ Bu şartlar çerçevesinde Alman perakendeciler Birliği ve Fransız Perakendeci
 Tüm gıda üreticilerin bu standart çerçevesinde üretim yapmaları beklenmektedir. Tarımsal üretimden gıdanın işlenmesine kadarki tüm süreçler açısından kullanılabilir.
 
 <div class="text-center">
-<img src="/images/belgelendirme/FSSC-22000.jpg" width="291px" height="195px" class="img-fluid p-1" alt="FSSC 22000"></div>
+<img src="/images/belgelendirme/FSSC-22000.webp" width="300px" height="300px" class="img-fluid p-1" alt="FSSC 22000"></div>
 
 ### FSSC 22000 Gıda Güvenliği Yönetim Sistemi
 
@@ -74,7 +74,7 @@ FSSC 22000 global olarak tanınan bir standart olmakla beraber tanınan bir stan
 FSSC 22000 Sertifikasına Sahip iseniz Ürünlerinizin kalitesini arttırmış olursunuz, ürünleriniz yerde kabul görür.
 
 <div class="text-center">
-<img src="/images/belgelendirme/halal-certificied.png" width="291px" height="195px" class="img-fluid p-1" alt="FSSC 22000"></div>
+<img src="/images/belgelendirme/halal-certificied.webp" width="300px" height="300px" class="img-fluid p-1" alt="Halal Certificied"></div>
 
 ### Helal Gıda Belgelendirme
 
@@ -117,7 +117,7 @@ Helal Ürün kavramı sadece gıda ürünleri ile değil, kozmetik, ilaç, banka
 - Sadece helal gıda anlamında değil, temiz ve güvenilir gıda, müşteri memnuniyeti, kaliteli kontrol yöntemleri, gerekli dokümantasyonun iyileştirilmesi ve daha az kayıp daha çok verim anlamında da faydalar sağlar.
 
 <div class="text-center">
-<img src="/images/belgelendirme/kosher-certificied.jpg" width="291px" height="195px" class="img-fluid p-1" alt="FSSC 22000"></div>
+<img src="/images/belgelendirme/kosher-certificied.webp" width="300px" height="300px" class="img-fluid p-1" alt="Kosher Certificied"></div>
 
 ### Kosher Belgesi
 
@@ -133,7 +133,7 @@ Kosher belgesi Musevi inancına uygun olarak üretilmiş ürünlerin göstergesi
 - Üretimde kullanılan araç, malzeme, kap, fırın gibi tüm ekipmanın da temiz ve dinen pak olması gerekmektedir.
 
 <div class="text-center">
-<img src="/images/belgelendirme/haccp-gida-guvemligi.png" width="291px" height="195px" class="img-fluid p-1" alt="HACCP Gıda Güvenliği"></div>
+<img src="/images/belgelendirme/haccp-gida-guvemligi.webp" width="300px" height="300px" class="img-fluid p-1" alt="HACCP Gıda Güvenliği"></div>
 
 ### HACCP Belgesi
 
