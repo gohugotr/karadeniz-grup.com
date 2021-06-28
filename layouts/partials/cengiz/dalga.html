@@ -1,6 +1,8 @@
 <div id="mainBG"
-style="background-image: url('{{ if $.Param "belgeUstfoto" }}{{ $.Param "belgeUstfoto" }}{{ else }}{{$.Site.Params.params.mainbg}}{{ end }}');{{ if $.Param "belgeUstfotoSize" }}{{ $.Param "belgeUstfotoSize" }}{{ end }}"
+style="background-image: url('{{ if $.Param "belgeUstfoto" }}{{ $.Param "belgeUstfoto" }}{{ else }}{{$.Site.Params.params.mainbg}}{{ end }}');"
 >
+
+<!-- {{ if $.Param "belgeUstfotoSize" }}{{ $.Param "belgeUstfotoSize" }}{{ end }} -->
 <div
   class="wave wave1"
   style="background-image: url('{{ .Site.BaseURL }}/images/wave.png');"
