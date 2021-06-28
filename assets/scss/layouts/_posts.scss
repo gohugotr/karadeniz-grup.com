@@ -78,6 +78,12 @@
   background-position: top center;
   color: #fff;
 }
+@include media-breakpoint-down(sm) {
+  #mainBG {
+    width: 50%;
+    height: 50vh;
+  }
+}
 
 #mainBG .wave {
   position: absolute;
