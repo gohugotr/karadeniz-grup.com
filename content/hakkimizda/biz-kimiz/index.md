@@ -10,5 +10,5 @@ images: ["say-hello-to-doks.png"]
 contributors: ["Karadeniz Grup"]
 ---
 
-<div class="text-center">
-<img src="/images/belgelendirme/Faaliyetler.png" width="383px" height="650px" class="img-fluid p-1" alt="Faaliyetlerimiz"></div>
+<!-- <div class="text-center">
+<img src="/images/belgelendirme/Faaliyetler.png" width="383px" height="650px" class="img-fluid p-1" alt="Faaliyetlerimiz"></div> -->
