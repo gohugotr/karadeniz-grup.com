@@ -9,7 +9,7 @@ images: []
 menu:
   hizmetler:
     parent: "danismanlik"
-weight: 110
+weight: 020
 toc: true
 ---
 
