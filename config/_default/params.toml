@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Katkı sağlayanlar <a href=\"https://#/\">CyMe Yazılım</a> ve <a href=\"https://www.render.com/\">Render</a>"
+footer = "© Telif hakkı 2021 | <a href=\"https://karadeniz-grup.com/\">Karadeniz Grup</a> | Tüm Hakları Saklıdır"
 
 # Alert
 alert = false
