@@ -62,3 +62,11 @@ belgeUstfotoSize: "background-size: auto 40vh"
 ### E- Güvenli Turizm Belgelendirmesi
 
 ### F- CE İşareti Belgelendirme
+
+### G- Marka Tescil İşlemleri
+
+- Patent ve faydalı model tescili
+- Coğrafi işaret tescili
+- Tasarım tescili
+
+### H- Barkod Numarası Tescili
