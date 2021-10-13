@@ -7,11 +7,11 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a onMouseOver="this.style.color='#FFF'"
+ <!--     <a onMouseOver="this.style.color='#FFF'"
        class="btn bootstrapmavi button-genislik btn-lg mb-2" href="{{ "hizmetler/belgelendirme/belgelendirmeler/" | relURL }}" role="button"><span>Belgelendirme</span></a>
       <a class="btn btn-success button-genislik btn-lg mb-2" href="{{ "hizmetler/danismanlik/karadeniz-danismanlik/" | relURL }}" role="button"><span>Danışmanlık</span></a>
       <a class="btn btn-info button-genislik btn-lg mb-2" href="{{ "hizmetler/ilaclama/dezenfeksiyon/" | relURL }}" role="button"><span style="color:white">İlaçlama</span></a>
-      <!-- <p class="meta">Açık kaynak MIT Lisanslı. <a href="https://github.com/gohugotr/gohugotr.com">GitHub v{{ .Site.Data.gohugotr.version }}</a></p> -->
+       <p class="meta">Açık kaynak MIT Lisanslı. <a href="https://github.com/gohugotr/gohugotr.com">GitHub v{{ .Site.Data.gohugotr.version }}</a></p> -->
     </div>
   </div>
 </section>
@@ -23,24 +23,25 @@
     <div class="row justify-content-center text-center">
       <div class="col-lg-5">
         <h2 class="h4">Sistem Belgelendirme</h2>
-        <p><a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-9001-kalite-yönetim-sistemi">ISO 9001 Kalite Yönetim Sistemi</a>,
+        <p>
+          <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-9001-kalite-yönetim-sistemi"><b>ISO 9001 Kalite Yönetim Sistemi</b></a>,
           <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-14001-çevre-yönetim-sistemi">ISO 14001 Çevre</a>,
-          <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-22000-gıda-güvenliği-yönetim-sistemi">ISO 22000 Gıda Güvenliği</a>,
+          <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-22000-gıda-güvenliği-yönetim-sistemi"><b>ISO 22000 Gıda Güvenliği</b></a>,
           <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-27001-bilgi-güvenliği-yönetim-sistemi">ISO 27001 Bilgi Güvenliği</a>,
-          <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-45001-iş-sağlığı-ve-güvenliği-yönetim-sistemi">ISO 45001 İş Sağlığı Ve Güvenliği</a>,
+          <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-45001-iş-sağlığı-ve-güvenliği-yönetim-sistemi"><b>ISO 45001 İş Sağlığı Ve Güvenliği</b></a>,
             <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-50001-enerji-yönetim-sistemi">ISO 50001 Enerji</a>,
-            <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-10002-müşteri-memnuniyeti-yönetim-sistemi">ISO 10002 Müşteri Memnuniyeti</a>,
+            <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-10002-müşteri-memnuniyeti-yönetim-sistemi"><b>ISO 10002 Müşteri Memnuniyeti</b></a>,
             <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-28000-tedarik-zinciri-güvenliği-yönetim-sistemi">ISO 28000 Tedarik Zinciri Güvenliği</a>,
-            <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-13485-tıbbi-cihazlar-için-kalite-yönetim-sistemi">ISO 13485 Tıbbi Cihazlar</a>
+            <a href="hizmetler/belgelendirme/sistem-belgelendirme/#iso-13485-tıbbi-cihazlar-için-kalite-yönetim-sistemi"><b>ISO 13485 Tıbbi Cihazlar</b></a>
          </p>  
       </div>
       <div class="col-lg-5">
         <h2 class="h4">Gıda Sektörü Belgelendirme</h2>
-        <p><a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/">BRC Küresel Gıda Standardı - British Retail Consortium</a>,
+        <p><a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/"><b>BRC Küresel Gıda Standardı - British Retail Consortium</b></a>,
         <a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/#ifs-belgesi">IFS Belgesi</a>,
-        <a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/#fssc-22000-gıda-güvenliği-yönetim-sistemi">FSSC 22000 Gıda Güvenliği Yönetim Sistemi</a>,
+        <a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/#fssc-22000-gıda-güvenliği-yönetim-sistemi"><b>FSSC 22000 Gıda Güvenliği Yönetim Sistemi</b></a>,
         <a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/#helal-gıda-belgelendirme">Helal Gıda Belgelendirme</a>,
-        <a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/#kosher-belgesi">Kosher Belgesi</a>,
+        <a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/#kosher-belgesi"><b>Kosher Belgesi</b></a>,
           <a href="hizmetler/belgelendirme/gida-guvenligi-belgelendirme/#haccp-belgesi">HACCP Belgesi</a>
         </a>
        </p>
