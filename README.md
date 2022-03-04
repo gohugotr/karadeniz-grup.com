@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  KARADENİZ GRUP, 2004 yılında müşterilerinin ihtiyaçlarına cevap vermek amacıyla kurulmuş ve her geçen yıl faaliyetlerini genişleterek entegre hizmetler ve çözümler sunmaya devam etmiştir
+  KARADENİZ GRUP, 2004 yılında müşterilerinin ihtiyaçlarına cevap vermek amacıyla kurulmuş ve her geçen yıl faaliyetlerini genişleterek entegre hizmetler ve çözümler sunmaya devam etmiştir.
 </p>
 <!-- 
 <p align="center">
