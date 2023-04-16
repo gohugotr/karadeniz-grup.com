@@ -4,4 +4,3 @@ resources
 public
 # Local Netlify folder
 .netlify
-.DS_Store
