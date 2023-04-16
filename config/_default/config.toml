@@ -76,9 +76,6 @@ rel  = "sitemap"
 [RelPermalinks]
   hakkimizda = "/hakkimizda/:title/"
 
-[params]
-  description = "Rize danışmanlık, ilaçlama, dezenfeksiyon, Sistem Belgelendirme, Çevre Danışmanlık Hizmetleri, TSE / CE İşareti Belgelendirme, Marka / Barkod Numarası Tescil İşlemleri, Güvenli Turizm Belgelendirmesi, Tarımsal Ürünlerinin Belgelendirilmesi, Gıda Sektörü Belgelendirme ile hizmetinizdeyiz."
-
 [module]
   [module.hugoVersion]
     extended = true
