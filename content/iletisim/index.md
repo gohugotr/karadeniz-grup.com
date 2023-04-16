@@ -13,4 +13,4 @@ submit: "Gönder"
 images: []
 ---
 
-{{< email user="karadeniz" domain="karadenizdanismanlik.com" >}}
+{{< email user="karadeniz" domain="karadeniz-grup.com" >}}
