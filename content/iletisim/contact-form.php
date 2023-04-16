@@ -3,12 +3,12 @@
     $ziyaretci_eposta = $_POST['email'];
     $mesaj = $_POST['message'];
 
-    $email_from = "karadeniz@karadenizdanismanlik.com";
+    $email_from = "karadeniz@karadeniz-grup.com";
     $email_subject = "İletişim Formu Mesajı";
     $email_body = "Ziyaretçi Adı: $ziyaretci_ad.\n".
                     "Ziyaretçi E-posta: $ziyaretci_eposta.\n".
                     "Mesaj : $mesaj.\n";
-    $to = "karadeniz@karadenizdanismanlik.com";
+    $to = "karadeniz@karadeniz-grup.com";
 
     $headers = "From : $email_from \r\n";
 
