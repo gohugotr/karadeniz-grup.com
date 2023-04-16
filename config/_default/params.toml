@@ -64,3 +64,4 @@ editPage = false
   mainSections = ["hakkimizda", "hizmetler"] # Arama yapılacak içerikler
   mainbg = "https://picsum.photos/1280/300.webp"
   belgeUstfoto = "/images/belgelendirme/ISO.webp"
+  Description = "Rize danışmanlık, ilaçlama, dezenfeksiyon, Sistem Belgelendirme, Çevre Danışmanlık Hizmetleri, TSE / CE İşareti Belgelendirme, Marka / Barkod Numarası Tescil İşlemleri, Güvenli Turizm Belgelendirmesi, Tarımsal Ürünlerinin Belgelendirilmesi, Gıda Sektörü Belgelendirme ile hizmetinizdeyiz."
