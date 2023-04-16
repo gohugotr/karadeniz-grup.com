@@ -15,9 +15,9 @@
 <p align="center">
   KARADENİZ GRUP, 2004 yılında müşterilerinin ihtiyaçlarına cevap vermek amacıyla kurulmuş ve her geçen yıl faaliyetlerini genişleterek entegre hizmetler ve çözümler sunmaya devam etmiştir.
 </p>
-<<<<<<< HEAD
-<!-- 
-<p align="center">
+
+
+<!-- <p align="center">
   <a href="https://github.com/h-enk/doks/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
   </a>
@@ -119,11 +119,11 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 - [Hugo Forums](https://discourse.gohugo.io/)
 - [Doks Discussions](https://github.com/h-enk/doks/discussions)
 
-## Hakkımızda
+## Hakkımızda -->
+
+
 <!--START_SECTION:feed--
 * [Doks v0.2](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;doks-v0.2&#x2F;)
 * [Say hello to Doks 👋](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;say-hello-to-doks&#x2F;)
 <!--END_SECTION:feed--
  -->
-=======
->>>>>>> 3dd221f (düzeltme)
