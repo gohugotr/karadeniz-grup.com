@@ -1,10 +1,12 @@
 {{ define "main" }}
+ <main id="main">
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 col-xl-8">
     <article>
-      <h1 class="text-center">Sayfa bulunamadı :(</h1>
+      <h1 id="title" class="text-center"><a href="{{ "" | relURL }}">Sayfa bulunamadı :(</a></h1>
       <p class="text-center">Aradığınız sayfa mevcut değil veya taşınmış.</p>
     </article>
   </div>
 </div>
+   </main>
 {{ end }}
